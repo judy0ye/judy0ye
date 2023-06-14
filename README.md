@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi, I'm Judy 👋</h1>
-<h3 align="center">Aspiring Front-End Developer Taking It One Step At A Time</h3>
+<h3 align="center">Aspiring Software Developer Taking It One Step At A Time</h3>
 
 - 🌱 I'm currently a student at **Turing School of Software and Design**
   - learning **Javascript, HTML, and CSS** 
-
-- 📫 How to reach me **judyy.ye@gmail.com**
+- 👀 Check out my latest project: [Tic-Tac-Toe](https://judy0ye.github.io/tic-tac-toe/)
+- 📫 How to reach me: **judyy.ye@gmail.com**
 
 
 
