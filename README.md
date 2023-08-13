@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">Aspiring Software Developer Taking It One Step At A Time</h3>
 
 - 🌱 I'm currently a student at **Turing School of Software and Design** learning **Javascript, HTML, and CSS** 
-- 👀 Check out my latest project: [Tic-Tac-Toe](https://judy0ye.github.io/tic-tac-toe/)
+- 👀 Check out my projects: [Travel-Tracker](https://judy0ye.github.io/travel-tracker/), [Tic-Tac-Toe](https://judy0ye.github.io/tic-tac-toe/)
 - 📫 How to reach me: **judyy.ye@gmail.com**
 
 
