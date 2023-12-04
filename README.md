@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi, I'm Judy 👋</h1>
-<h2 align="center">Software Developer Taking It One Step At A Time</h2>
+<h2 align="center">Software Developer Taking It One Step At A Time
+  
+![green blob typing](https://media.giphy.com/media/UFGj6EYw5JhMQ/giphy.gif)
+
+</h2>
 
 - :tooth: I'm a dental assistant turned software developer. I promise not to look at your teeth when you talk to me.
 
-![green blob typing](https://media.giphy.com/media/UFGj6EYw5JhMQ/giphy.gif)
 
 
 - 👀 Check out my projects:
