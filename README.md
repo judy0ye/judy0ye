@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h2 align="center">Software Developer Taking It One Step At A Time</h2>
 
 - :tooth: I'm a dental assistant turned software developer. I promise not to look at your teeth when you talk to me.
-<div align="center">
+
 ![green blob typing](https://media.giphy.com/media/UFGj6EYw5JhMQ/giphy.gif)
-</div>
+
 
 - 👀 Check out my projects:
   - [Escape Link](https://escapelink-fe.vercel.app/)
