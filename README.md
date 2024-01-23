@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 
 - 👀 Check out my projects:
+  - [Thrifty Pet](https://thrifty-pet-fe.vercel.app/) 
   - [Escape Link](https://escapelink-fe.vercel.app/)
   - [Rancid Tomatillos](https://rancid-tomatillos-jysb.vercel.app/)
   - [Pet Book](https://petbook-three.vercel.app/)
