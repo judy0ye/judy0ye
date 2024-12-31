@@ -30,9 +30,11 @@ Here are some ideas to get you started:
   - [Escape Link](https://escapelink-fe.vercel.app/)
   - [Rancid Tomatillos](https://rancid-tomatillos-jysb.vercel.app/)
   - [Pet Book](https://petbook-three.vercel.app/)
+  <!--
   - [Star Wars 101](https://star-wars-101.vercel.app/) 
   - [Travel-Tracker](https://judy0ye.github.io/travel-tracker/) (*the username is 'traveler' followed by any number between 1-50 (ex. traveler15) and the password is 'travel'*)
   - [Tic-Tac-Toe](https://judy0ye.github.io/tic-tac-toe/)
+  -->
 - 📫 How to reach me: **judyy.ye@gmail.com**
 
 
