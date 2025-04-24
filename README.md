@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 
 - 👀 Check out my projects:
+  - [My Portfolio](https://judyye.vercel.app/)
   - [The Froth Cafe](https://the-froth-cafe.vercel.app/)
   - [Thrifty Pet](https://thrifty-pet-fe.vercel.app/) 
   - [Escape Link](https://escapelink-fe.vercel.app/)
